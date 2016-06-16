@@ -1,0 +1,5 @@
+#test $Revision: e9aa1cc877f541872eb6ddc42e79ec704e5808bb $
+#$Id: test.txt Thu Jun 16 18:05:16 2016 +0800  flyingkitty $
+#$Author: flyingkitty wangyan_ryan@163.com $
+#$Date:   Thu Jun 16 18:05:16 2016 +0800 $
+#$Header: /home/hadoop/github/test_keywords/test.txt e9aa1cc877f541872eb6ddc42e79ec704e5808bb Thu Jun 16 18:05:16 2016 +0800 flyingkitty $
