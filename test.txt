@@ -1,0 +1,6 @@
+# for test
+# test $Id: test.txt Fri Jun 17 01:36:14 2016 -0400  ryanwy $
+# test $Revision: 35278868e9daa6a120e2cb77ef659270eda893c3 $
+# test $Author: ryanwy wangyan_ryan@163.com $
+# test $Date:   Fri Jun 17 01:36:14 2016 -0400 $
+# test $Header: /home/hadoop/github/test_keywords/test.txt 35278868e9daa6a120e2cb77ef659270eda893c3 Fri Jun 17 01:36:14 2016 -0400 ryanwy $
