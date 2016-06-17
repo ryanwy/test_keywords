@@ -1,4 +1,0 @@
-$Id: test.txt Fri Jun 17 01:56:08 2016 -0400  ryanwy $
-$Revision: cd4db25e0693872a95090bf0806b0ec33fefed60 $
-$Date:   Fri Jun 17 01:56:08 2016 -0400 $
-$Author: ryanwy wangyan_ryan@163.com $
