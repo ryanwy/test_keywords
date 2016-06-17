@@ -1,6 +1,0 @@
-# for test
-# test $Id: test.txt Fri Jun 17 01:08:58 2016 -0400  ryanwy $
-# test $Revision: 2611fddd707fb0ad0c8d542f0bcbcd39b794fd54 $
-# test $Date:   Fri Jun 17 01:08:58 2016 -0400 $
-# test $Author: ryanwy wangyan_ryan@163.com $
-# test $Header: /home/hadoop/github/test_keywords/test.txt 2611fddd707fb0ad0c8d542f0bcbcd39b794fd54 Fri Jun 17 01:08:58 2016 -0400 ryanwy $
