@@ -105,7 +105,7 @@ sub set_smudge {
         exit(1);
     }
     
-    # the log information is empty, we get log from remote master
+    # if the log information is empty, we get log from remote branch
     if( $author eq "" or 
         $date eq "" or
         $rev eq "" or
