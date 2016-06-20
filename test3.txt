@@ -1,7 +1,0 @@
-# $Revision$
-# $Author$
-# $Header$
-
-# $Id$
-# $Date$
-
