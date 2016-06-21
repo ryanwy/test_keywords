@@ -1,5 +1,2 @@
 $Id$
-$Author$
-$Date$
 $Revision$
-$Header$
