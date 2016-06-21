@@ -1,5 +1,3 @@
-$Id$
-$Author$
-$Date$
-$Revision$
-$Header$
+$Id: test12.txt Tue Jun 21 05:10:14 2016 -0400  ryanwy $
+$Author: ryanwy wangyan_ryan@163.com $
+$Date:   Tue Jun 21 05:10:14 2016 -0400 $
