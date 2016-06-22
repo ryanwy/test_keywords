@@ -1,4 +1,2 @@
-$Author: ryanwy wangyan_ryan@163.com $
-$Date:   Wed Jun 22 03:55:39 2016 -0400 $
-$Id: /home/hadoop/github/test_keywords/test13.txt Wed Jun 22 03:55:39 2016 -0400  ryanwy $
-$Revision: f7d5364f22010963a2a247e1fe8e34ad6d5d5ac3 $
+$Id$
+$Revision$
