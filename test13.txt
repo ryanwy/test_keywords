@@ -1,3 +1,4 @@
-$Date:   Tue Jun 21 06:28:22 2016 -0400 $
-$Id: test13.txt Tue Jun 21 06:28:22 2016 -0400  ryanwy $
-$Revision: fa1b9a6f6834bcd048bc46d99daacc7cf301cd15 $
+$Author$
+$Date$
+$Id$
+$Revision$
